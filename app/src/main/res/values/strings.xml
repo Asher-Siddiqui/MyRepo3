@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice App3</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="postal_address">Postal address</string>
+    <string name="email">Email</string>
+    <string name="Register">REGISTER</string>
+    <string name="REGISTER">REGISTER</string>
+</resources>
